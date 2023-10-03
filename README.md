@@ -10,19 +10,6 @@ HPSO-LS is a feature subset selection algorithm that combines Hybrid Particle Sw
 - Visualization and analysis of results for better understanding and evaluation.
 - Comprehensive documentation and code examples for easy implementation.
 
-## Installation
-
-To use HPSO-LS, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/rafe-sh/HPSO-LS.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-
-## Usage
-
-1. Open the `HPSO-LS.ipynb` Jupyter Notebook.
-2. Follow the instructions and run the code cells to execute the HPSO-LS algorithm.
-3. Customize the algorithm parameters and dataset according to your requirements.
-4. Analyze the results and evaluate the performance of the selected feature subset.
 
 ## Dataset
 
@@ -47,14 +34,7 @@ The HPSO-LS algorithm aims to find the optimal feature subset that maximizes the
 - Minimizing training time.
 - Reducing overfitting by selecting the most relevant features.
 
-## Credits
-
-HPSO-LS was developed by Rafe Sharif. The algorithm combines the concepts of PSO and Local Search to solve the feature subset selection problem.
-
-## License
-
-The code in this repository is available under the MIT License. Please see the `LICENSE` file for more details.
 
 ## Contact
 
-For any questions or inquiries, please contact Rafe Sharif at [rafe.sharif@email.com](mailto:rafe.sharif@email.com).
+For any questions or inquiries, please contact Rafe Sharif at [raffff81@gmail.com](mailto:raffff81@gmail.com).
